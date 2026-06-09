@@ -113,7 +113,7 @@ http://localhost:3000
 
 ### Gallery Page
 
-![Gallery Page](public/screenshots/galleryPage.jpg)
+![Gallery Page](public/screenshots/gallaryPage.jpg)
 
 ### Contact Page
 
