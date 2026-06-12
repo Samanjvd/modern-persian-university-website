@@ -1,4 +1,4 @@
-# Modern Persian University Website
+# Modern Persian Portfolio Website
 
 A modern university website built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -79,10 +79,6 @@ http://localhost:3000
 
 ![Home Page](public/screenshots/homePage.jpg)
 
-### Home Page Content
-
-![Home Page Content](public/screenshots/homePageContent.jpg)
-
 ### Responsive
 
 ![About Page](public/screenshots/homeResponsive.jpg)
@@ -90,10 +86,6 @@ http://localhost:3000
 ### About Page
 
 ![About Page](public/screenshots/aboutPage.jpg)
-
-### About Page Content
-
-![About Page Content](public/screenshots/aboutPageContent.jpg)
 
 ### Projects Page
 
